@@ -7,3 +7,4 @@ class Solution:
             return True
         else:
             return False
+# this code determines if a number is palindrome
